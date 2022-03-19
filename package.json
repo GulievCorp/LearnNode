@@ -2,7 +2,7 @@
   "type": "module",
   "name": "nodejs",
   "version": "1.0.0",
-  "main": "FirstLession.js",
+  "main": "ForLession.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +12,9 @@
   "devDependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.8"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "lodash": "^4.17.21"
   }
 }
