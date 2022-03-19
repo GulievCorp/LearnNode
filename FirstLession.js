@@ -1,6 +1,4 @@
-import { square } from './ThreeLession';
-
-console.log(square);
+import { square } from './ThreeLession.js';
 
 for(let i = 0; i <= 10; i++){
     console.log(i);
